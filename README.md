@@ -1,2 +1,6 @@
 # thesis2024
 for thesis.... 
+
+
+#motivation 
+i need to store things in the cloud...
